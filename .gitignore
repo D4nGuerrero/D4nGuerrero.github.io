@@ -1,2 +1,5 @@
 Geekoshop/node_modules/*
 !Geekoshop/node_modules/bootstrap
+!Geekoshop/node_modules/jquery
+!Geekoshop/node_modules/popper.js
+
