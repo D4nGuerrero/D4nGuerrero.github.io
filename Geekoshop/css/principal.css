@@ -1,7 +1,7 @@
 /*Variables para probar less*/
 /* Aqui tenemos el jumbotron */
 .jumbotron {
-  background-image: url("/img/Imagen-GeekoShop-Inicio.jpg");
+  background-image: url("../img/Imagen-GeekoShop-Inicio.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover ;
